@@ -50,6 +50,10 @@ body.dark{
     --bs-gutter-x: 30px;
 }
 
+.center-content{
+	text-align: center;
+}
+
 /* -------------------------------------------------- */
 /* border */
 /* -------------------------------------------------- */
@@ -1784,7 +1788,7 @@ a.btn-main:before,
 	box-shadow: 0 2px 5px 0 rgb(0 0 0 / 50%);
 }
 .dark .shadow_sm,
-.dark .shadow_sm,{
+.dark .shadow_sm{
 	-webkit-box-shadow: 0 2px 5px 0 rgb(0 0 0 / 80%);
 	-moz-box-shadow: 0 2px 5px 0 rgb(0 0 0 / 80%);
 	box-shadow: 0 2px 5px 0 rgb(0 0 0 / 80%);
