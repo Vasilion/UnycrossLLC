@@ -273,7 +273,8 @@ header.clone #logo .inner{
 height:70px;
 }
 header.clone #logo .inner img{
-height:24px
+height:72px;
+border-radius: 10px;
 }
 header.clone .header-info{
 display:none;
@@ -2291,7 +2292,7 @@ margin-bottom: 30px;
 }
 
 .testi-style-2 .info{
-	padding-left:140px;
+	
 }
 
 
