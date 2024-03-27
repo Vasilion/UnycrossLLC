@@ -1,5 +1,5 @@
 <?php
-$emailTo = 'info@designesia.com';  //Recipient's E-mail
+$emailTo = 'unycross@gmail.com';  //Recipient's E-mail
 $subject = $_REQUEST['subject'];
 $name =  $_REQUEST['name'];
 $message = $_REQUEST['email'];
